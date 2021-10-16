@@ -22,9 +22,9 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @ithunammacinema & My Support Group @ithunammacinema.
+My future updates will be put into This Channel - @KOT_BOTS & My Support Group @KOT_REPORS.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/gplkavin/GPL-MANAGER-English),
+This is my [Deploy Code](https://t.me/KING_OF_THE_CARTOONS_CHANNEL),
 you can create clone same like me..
 
 For more commands click /help...
@@ -50,10 +50,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/gpl_kavin) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/KOT_FREE_DE_LA_HOYA_OFF) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [Paytm](7904386848), or [UPI](7904386848@paytm)."""
+There are two ways of paying him."""
 
 IMPORTED = {}
 MIGRATEABLE = []
